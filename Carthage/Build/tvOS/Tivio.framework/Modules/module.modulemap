@@ -1,6 +1,0 @@
-framework module Tivio {
-  umbrella header "Tivio.h"
-  export *
-
-  module * { export * }
-}

@@ -1,26 +1,26 @@
 {
-  "commitish" : "c949ea23a44907b170b72e88d62bce9d9fdc1c53",
-  "Mac" : [
-
-  ],
-  "iOS" : [
-
-  ],
   "watchOS" : [
 
   ],
   "tvOS" : [
     {
+      "container" : "Tivio.xcframework",
       "identifier" : "tvos-arm64",
-      "hash" : "c7f07c9fd785868b9d4631c7417d90bf05c97a6ea8c78a71e2d19d1a754ab934",
       "name" : "Tivio",
-      "container" : "Tivio.xcframework"
+      "hash" : "c7f07c9fd785868b9d4631c7417d90bf05c97a6ea8c78a71e2d19d1a754ab934"
     },
     {
-      "hash" : "8218160080d561f1607ba8eb7cfbff47c04037bf2d662c7e7faa30e9a9bd2fa3",
       "name" : "Tivio",
+      "container" : "Tivio.xcframework",
       "identifier" : "tvos-arm64_x86_64-simulator",
-      "container" : "Tivio.xcframework"
+      "hash" : "fcb2a35b0bf4c001c0c1c6d187e9093bfba1f05d5502ecd6b270bde8979c03b3"
     }
-  ]
+  ],
+  "iOS" : [
+
+  ],
+  "Mac" : [
+
+  ],
+  "commitish" : "c949ea23a44907b170b72e88d62bce9d9fdc1c53"
 }
